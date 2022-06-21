@@ -8,10 +8,7 @@ Our goal is to try and teach kids all about the principles of science and engine
 3. Have fun with the craft and experiment!
 4. A explanation of why what happened in the craft happened
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](<img src="img_girl.jpg" alt="Girl in a jacket">)
-```
+![pexels-photo-6087624](https://user-images.githubusercontent.com/107948334/174912050-2effde26-a084-47cf-8b02-c44997e6111f.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
