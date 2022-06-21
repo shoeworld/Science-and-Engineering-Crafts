@@ -1,8 +1,8 @@
-# Science and Engineering Crafts Made Fun
+## Science and Engineering Crafts Made Fun
 
 Our goal is to try and teach kids all about the principles of science and engineering through crafts. Some crafts include windmills, catapults, and coin tower challenges.
 
-# How We Will Do Crafts
+## How We Will Do Crafts
 1. We will tell you the supplies and a basic description of the craft
 2. Instructions will be shown on how to do the craft
 3. Have fun with the craft and experiment!
@@ -10,7 +10,7 @@ Our goal is to try and teach kids all about the principles of science and engine
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](<img src="img_girl.jpg" alt="Girl in a jacket">)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
