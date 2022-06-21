@@ -10,12 +10,6 @@ Our goal is to try and teach kids all about the principles of science and engine
 
 ![pexels-photo-6087624](https://user-images.githubusercontent.com/107948334/174912050-2effde26-a084-47cf-8b02-c44997e6111f.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shoeworld/shoeworld.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id="sfcjq5d84cm53l1yf7mdenms9jjzn5uslah"></div>
+<script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=jq5d84cm53l1yf7mdenms9jjzn5uslah&down=async" async></script>
+<br><a href="https://www.freecounterstat.com">free counter</a><noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jq5d84cm53l1yf7mdenms9jjzn5uslah" border="0" title="free counter" alt="free counter"></a></noscript>
