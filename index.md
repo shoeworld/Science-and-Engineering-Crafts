@@ -1,23 +1,12 @@
-## Science and Engineering Crafts Made Fun
+# Science and Engineering Crafts Made Fun
 
 Our goal is to try and teach kids all about the principles of science and engineering through crafts. Some crafts include windmills, catapults, and coin tower challenges.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# How We Will Do Crafts
+1. We will tell you the supplies and a basic description of the craft
+2. Instructions will be shown on how to do the craft
+3. Have fun with the craft and experiment!
+4. A explanation of why what happened in the craft happened
 
 **Bold** and _Italic_ and `Code` text
 
