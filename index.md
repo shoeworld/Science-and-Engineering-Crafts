@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Science and Engineering Crafts Made Fun
 
-You can use the [editor on GitHub](https://github.com/shoeworld/shoeworld.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our goal is to try and teach kids all about the principles of science and engineering through crafts. Some crafts include windmills, catapults, and coin tower challenges.
 
 ### Markdown
 
