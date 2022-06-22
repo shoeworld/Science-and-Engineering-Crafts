@@ -10,8 +10,13 @@ Our goal is to try and teach kids all about the principles of science and engine
 
 ![pexels-photo-6087624](https://user-images.githubusercontent.com/107948334/174912050-2effde26-a084-47cf-8b02-c44997e6111f.jpg)
 
+<button type="button">Newton's Coin Tower</button>
+<button type="button">Singing Glasses</button>
+<button type="button">Spinning Tops</button>
+<button type="button">Catapults</button>
+
 <div id="sfcjq5d84cm53l1yf7mdenms9jjzn5uslah"></div>
 <script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=jq5d84cm53l1yf7mdenms9jjzn5uslah&down=async" async></script>
 <br><a href="https://www.freecounterstat.com">free counter</a><noscript><a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jq5d84cm53l1yf7mdenms9jjzn5uslah" border="0" title="free counter" alt="free counter"></a></noscript>
 
-<button type="button">Click Me!</button>
+\
